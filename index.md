@@ -16,11 +16,24 @@
 
 ### Games
 
-* [Jogo 1 Oficina: Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/) 
+* [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/) 
 
 "Parkour Junino" propõe uma aventura por um ambiente com características dos festejos de São João.
 
 [![](ParkourJunino.PNG)](https://felipecastroifrn.github.io/ParkourJunino/) 
+
+Equipe: Felipe Castro.
+
+***
+
+* [Pokemons vs Humanos](https://bixcoito.github.io/Pokemon/)
+
+"Pokemons vs Humanos" busca uma divertida releitura do jogo Plants vs Zombies.
+
+[![](Pokemon.png)](https://bixcoito.github.io/Pokemon/) 
+
+Equipe: Emanuelle Carine e João Pedro.
+
 
 ### Artes
 
