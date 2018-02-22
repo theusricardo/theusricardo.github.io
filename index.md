@@ -20,7 +20,7 @@
 
 "Parkour Junino" propõe uma aventura por um ambiente com características dos festejos de São João.
 
-[![](ParkourJunino.PNG)](https://felipecastroifrn.github.io/ParkourJunino/) 
+[![](ParkourJunino.PNG/0.25)](https://felipecastroifrn.github.io/ParkourJunino/) 
 
 Equipe: Felipe Castro.
 
