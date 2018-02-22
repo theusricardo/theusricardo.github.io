@@ -31,7 +31,7 @@ Equipe: Felipe Castro.
 "Cake Boss" é um jogo simples que busca fazer receitas de cozinha.
 Primeira tentativa de jogo utilizando física para jogos.
 
-[![](Pokemon.png)](https://emanuellicarine.github.io/CakeBoss/)
+[![](cakeboss.png)](https://emanuellicarine.github.io/CakeBoss/)
 ***
 
 * [Pokemons vs Humanos](https://bixcoito.github.io/Pokemon/)
