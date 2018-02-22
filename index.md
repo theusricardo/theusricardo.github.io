@@ -1,10 +1,12 @@
-## *Seja bem-vindo(a)* a página de divulgação dos meus jogos digitais, artes realistas, eventos, projetos e premiações.
+# *Seja bem-vindo(a)!* 
 
-### *Bom, quem sou eu?* Aluno do 3º ano do curso técnico integrado em desenvolvimento de jogos digitais.  
+## Você está na página de divulgação dos meus jogos digitais, artes realistas, eventos, projetos e premiações.
 
-### *Amante de arte e de pesquisa científica.*
+### *Bom, quem sou eu?* Aluno do 3º ano do curso técnico integrado em desenvolvimento de jogos digitais.
 
-### *Pesquisador multidisciplinar em psicologia e neurologia.*
+## Amante de arte e de pesquisa científica.
+
+### *Pesquisador multidisciplinar* em psicologia e neurologia.
 ### *Focos atuais de pesquisa:*
 #### *Inibições cognitivas - dificuldades (transtornos) de aprendizagem:*
 *Discalculia; dislalia; dislexia; disortografia.*
@@ -19,11 +21,6 @@ _ italico
 #s uma ou mais hashtags criam capítulos ou sub  
 *s  asterisco adicionam ula lista não numerada  
 is  numeros adicionam uma lista numerada   
-
-
-  
-
-
 
 #### Contatos:  
 
