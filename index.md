@@ -6,29 +6,17 @@
 ### Pesquisador multidisciplinar em psicologia, neurologia e artes visuais.  
 ### Artista realista com foco em reprodução gráfica facial e corporal.
 
-####
 
 
-** negrito  
-_ italico  
-~~ riscando  
-  dois espaços para pular linha  
-*** adiciona uma linha horizontal  
-#s uma ou mais hashtags criam capítulos ou sub  
-*s  asterisco adicionam ula lista não numerada  
-is  numeros adicionam uma lista numerada   
+### Contatos:  
 
-#### Contatos:  
+*  E-mail: wisematr@gmail.com
 
-*  E-mail: 
-*  Instagram:
-  
-  
 ## Portfólio  
 
 ### Games   
 
-1.  
+1.
 2.  
 3.   
 
