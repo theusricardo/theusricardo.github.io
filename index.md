@@ -16,7 +16,7 @@
 
 ### Games
 
-* [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/) 
+# [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/) 
 
 "Parkour Junino" propõe uma aventura por um ambiente com características dos festejos de São João.
 
@@ -26,7 +26,7 @@ Equipe: Felipe Castro.
 
 ***
 
-* [Cake Boss](https://emanuellicarine.github.io/CakeBoss/)
+# [Cake Boss](https://emanuellicarine.github.io/CakeBoss/)
 
 "Cake Boss" é um jogo simples que busca fazer receitas de cozinha.
 Primeira tentativa de jogo utilizando física para jogos.
@@ -34,7 +34,7 @@ Primeira tentativa de jogo utilizando física para jogos.
 [![](cakeboss.png)](https://emanuellicarine.github.io/CakeBoss/)
 ***
 
-* [Pokemons vs Humanos](https://bixcoito.github.io/Pokemon/)
+# [Pokemons vs Humanos](https://bixcoito.github.io/Pokemon/)
 
 "Pokemons vs Humanos" busca uma divertida releitura do jogo Plants vs Zombies.
 
