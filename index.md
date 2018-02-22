@@ -1,6 +1,6 @@
 # *Seja bem-vindo(a)!* 
 
-## Você está na página de divulgação dos meus jogos digitais, artes realistas, eventos, projetos e premiações.
+## Você está na página de divulgação dos meus jogos digitais, artes realistas, participações em eventos, projetos realizados e em desenvolvimento.
 
 ### Sou aluno do 3º ano do curso técnico integrado em desenvolvimento de jogos digitais, amante de artes visuais e de pesquisa científica.
 
