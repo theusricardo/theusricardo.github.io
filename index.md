@@ -1,4 +1,4 @@
-# *Heyyy, seja bem-vindo(a) a minha página!* 
+# Heyyy, seja bem-vindo(a) a minha página! 
 
 ## Navegando por está página você encontrará os meus jogos digitais, artes realistas, participações em eventos e projetos.
 
