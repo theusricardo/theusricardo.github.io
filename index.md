@@ -1,10 +1,11 @@
-# *Seja bem-vindo(a)!* 
+# *Heyyy, seja bem-vindo(a) a minha página!* 
 
-## Você está na página de divulgação dos meus jogos digitais, artes realistas, participações em eventos, projetos realizados e em desenvolvimento.
+## Navegando por está página você encontrará os meus jogos digitais, artes realistas, participações em eventos e projetos.
 
 ### Sou aluno do 3º ano do curso técnico integrado em desenvolvimento de jogos digitais, amante de artes visuais e de pesquisa científica.
 
-### *Pesquisador multidisciplinar* em psicologia e neurologia.
+# Atuações:
+### Pesquisas multidisciplinares relacionadas a psicologia e neurologia.
 ### *Focos atuais de pesquisa:*
 #### *Inibições cognitivas - dificuldades (transtornos) de aprendizagem:*
 *Discalculia; dislalia; dislexia; disortografia.*
