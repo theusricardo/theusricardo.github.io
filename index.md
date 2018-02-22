@@ -2,9 +2,7 @@
 
 ## Você está na página de divulgação dos meus jogos digitais, artes realistas, eventos, projetos e premiações.
 
-### *Bom, quem sou eu?* Aluno do 3º ano do curso técnico integrado em desenvolvimento de jogos digitais.
-
-## Amante de arte e de pesquisa científica.
+### Sou aluno do 3º ano do curso técnico integrado em desenvolvimento de jogos digitais, amante de artes visuais e de pesquisa científica.
 
 ### *Pesquisador multidisciplinar* em psicologia e neurologia.
 ### *Focos atuais de pesquisa:*
