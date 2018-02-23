@@ -1,4 +1,5 @@
-## Heyyy, seja bem-vindo(a) a minha página! 
+## Heyyy, seja bem-vindo(a) a minha página!
+![](Perfil.jpg) 
 
 ## Navegando por está página você encontrará os meus jogos digitais, artes realistas, participações em eventos e projetos.
 
@@ -93,9 +94,34 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 
 > Credenciamento para a MOCICA 2018, no Ceará (MOCITEC - ZN, 2017).
       
- ## Galeria de Arte
- ## Em andamento
+ ## Galeria de Arte Realista e Ilustração
+ ## Em andamento com Grafite
  
-![](Greic.jpg)
+![](Greic2.jpg)
+
+## Grafite: comparações com a foto real
  
- 
+![](Comp1.jpg) 
+***
+![](Comp2.jpg)
+
+## Grafite e Canetas Esferográficas
+![](Geometria.jpg)
+***
+![](Flor.jpg)
+
+## Só Grafite
+![](Clar.jpg)
+
+## Só Canetas Esferográficas
+![](PicsArt_10-09-10.03.06.jpg)
+
+## Tinta Acrílica
+![](Tinta.jpg)
+***
+![](Tinta2.jpg)
+
+## Digitais
+![](Pok1.jpg)
+***
+![](Pok2.jpg)
