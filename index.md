@@ -90,6 +90,7 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 > Credenciamento para a MOCICA 2018, no Ceará (MOCITEC - ZN, 2017).
       
  ## Galeria de Arte Realista e Ilustração
+ 
  ## Em andamento com Grafite
  
 ![](Greic2.jpg)
@@ -97,7 +98,9 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 ## Grafite: comparações com a foto real
  
 ![](Comp1.jpg) 
+
 ***
+
 ![](Comp2.jpg)
 
 ## Grafite e Canetas Esferográficas
@@ -112,12 +115,16 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 
 ## Tinta Acrílica
 ![](Tinta.jpg)
+
 ***
+
 ![](Tinta2.jpg)
 
 ## Digitais
 ![](Pok1.jpg)
+
 ***
+
 ![](Pok2.jpg)
 
 ### Contatos:  
