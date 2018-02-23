@@ -43,27 +43,35 @@ Primeira tentativa de jogo utilizando física para jogos.
 
 Equipe: Emanuelle Carine e João Pedro.
 
+## Projetos em eventos:
+## 2015
+> I SECITEX, IFRN campus Santa Cruz, com o projeto Cup Song, na modalidade apresentação cultural.  
 
-### Artes
+## 2016
+> SECITEX(2016), IFRN campus Parnamirim, dando início para a abertura do evento com a presentação do Cup Song. 
 
-![](.png)
-
-
-
-## Participação em eventos:
-
-> SECITEX(2015), IFRN campus Santa Cruz, com o projeto Cup Song, na modalidade apresentação cultural.  
->  
-> SECITEX(2016), IFRN campus Parnamirim, dando início para a abertura do evento com a presentação do Cup Song.  
+## 2017 
+> I EXPOTEC – IFRN/CAMPUS SÃO PAULO DO POTENGI, com o projeto USO DE SUPLEMENTOS NUTRICIONAIS POR JOVENS PRATICANTES DE
+ATIVIDADES FÍSICAS NO MUNICÍPIO DE CEARÁ-MIRIM: UMA PROPOSTA DE INTERVENÇÃO.
+>
+> FENECIT - PE, como finalista com o projeto GAMETERAPIA.
+>
+> V EXPOTEC APODI, como expositor na modalidade poster com projeto de pesquisa JOGOS DIGITAIS COMO FONTE DE CONHECIMENTO DA CULTURA BUDISTA: EM FOCO O NIRVANA.
+>
+> MOSTRATEC - RS, como finalista credenciada pela FENECIT.
+>
+> MOCITECZN (2017), como expositora na modalidade poster GAMETERAPIA.
 >
 > SECITEX(2017), IFRN campus caicó, com o projeto USO DE SUPLEMENTOS NUTRICIONAIS POR JOVENS PRATICANTES
 DE ATIVIDADES FÍSICAS NO MUNICÍPIO DE CEARÁ-MIRIM: UMA
-PROPOSTA DE INTERVENÇÃO, com orientação do professor de biologia Leandro Silva Costa.
+PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 >
 > 
 >
 >   
 
+## Projetos:
+> 
   
  > ![](.png)  
  >  
@@ -71,4 +79,5 @@ PROPOSTA DE INTERVENÇÃO, com orientação do professor de biologia Leandro Sil
  >  
  > ![](t.1.jpg)
       
- ## Galeria  
+ ## Galeria de Arte
+ 
