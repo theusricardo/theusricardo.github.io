@@ -94,6 +94,8 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 > Credenciamento para a MOCICA 2018, no Ceará (MOCITEC - ZN, 2017).
       
  ## Galeria de Arte
- [](Pokemon.png)
+ ## Em andamento
+ 
+![](Greic.jpg)
  
  
