@@ -48,7 +48,7 @@ Equipe: Emanuelle Carine e João Pedro.
 > I SECITEX, IFRN campus Santa Cruz, com o projeto Cup Song, na modalidade apresentação cultural.  
 
 ## 2016
-> SECITEX(2016), IFRN campus Parnamirim, dando início para a abertura do evento com a presentação do Cup Song. 
+> SECITEX, IFRN campus Parnamirim, dando início para a abertura do evento com a presentação do Cup Song. 
 
 ## 2017 
 > I EXPOTEC – IFRN/CAMPUS SÃO PAULO DO POTENGI, com o projeto USO DE SUPLEMENTOS NUTRICIONAIS POR JOVENS PRATICANTES DE
@@ -60,24 +60,34 @@ ATIVIDADES FÍSICAS NO MUNICÍPIO DE CEARÁ-MIRIM: UMA PROPOSTA DE INTERVENÇÃO
 >
 > MOSTRATEC - RS, como finalista credenciada pela FENECIT.
 >
-> MOCITECZN (2017), como expositora na modalidade poster GAMETERAPIA.
+> MOCITECZN, como expositora na modalidade poster GAMETERAPIA.
 >
-> SECITEX(2017), IFRN campus caicó, com o projeto USO DE SUPLEMENTOS NUTRICIONAIS POR JOVENS PRATICANTES
+> SECITEX, IFRN campus caicó, com o projeto USO DE SUPLEMENTOS NUTRICIONAIS POR JOVENS PRATICANTES
 DE ATIVIDADES FÍSICAS NO MUNICÍPIO DE CEARÁ-MIRIM: UMA
 PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
->
-> 
->
->   
+
+## Eventos externos:
+
+> I SEMANA DA MATEMÁTICA (I SEMAT), campus São Paulo Potengi (2015).
+> II SEMANA DA MATEMÁTICA (II SEMAT), campus São Paulo Potengi (2016).
+> I CAMPEONATO DE TORRE DE HANOI, participante em todas as modalidades: 4 discos, 5 discos, 6 discos e às cegas (2016).
+> III SEMANA DA MATEMÁTICA (II SEMAT), campus São Paulo Potengi (2017).
+> I Seminário de Tecnologia da Informação e Comunicação (I SETIC) do IFRN/SGA (2017).
 
 ## Projetos:
+> Projeto de Extensão Contínuo: Formação de professores da Escola Municipal Alberto Nicácio do Município de Ceará Mirim/RN: Uma perspectiva interdisciplinar - (2015).
+
+> GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) - (2017).
+
+> ESTUDO DE CASO: A GAMETERAPIA COMO UMA FERRAMENTA AUXILIAR NA REABILITAÇÃO DE IDOSOS COM A NEUROFUNCIONALIDADE COMPROMETIDAPELO ACIENTE VASCULAR ENCEFÁLICO (AVE) - (2017/2018).
+
 > 
-  
- > ![](.png)  
- >  
- > ![](.jpg)  
- >  
- > ![](t.1.jpg)
+## Premiações
+> Primeiro lugar na categoria ciências da saúde, com o projeto GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) (FENECIT - PE, 2017).
+
+> Credenciamento do projeto GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) para a 32ª edição da mostratec, 2017 (Projeto credenciado na FENECIT - PE, 2017).
+
+> Credenciamento para a MOCICA 2018, no Ceará (MOCITEC - ZN, 2017).
       
  ## Galeria de Arte
  
