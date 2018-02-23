@@ -82,7 +82,12 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 > ESTUDO DE CASO: A GAMETERAPIA COMO UMA FERRAMENTA AUXILIAR NA REABILITAÇÃO DE IDOSOS COM A NEUROFUNCIONALIDADE COMPROMETIDAPELO ACIENTE VASCULAR ENCEFÁLICO (AVE) - (2017/2018).
 
 > 
-## Premiações
+## Premiações  
+#### Projeto de Biologia - Gameterapia: uma forma de unir jogos digitais à reabilitação de pacientes acometidos pelo acidente vascular encefálico (AVE)  
+Orientadores: Videanny Videnov
+
+[![](FENECIT.png)](http://portal.ifrn.edu.br/campus/ceara-mirim/noticias/estudantes-do-campus-ceara-mirim-sao-premiados-em-feira-regional-de-ciencia-e-tecnologia)
+
 > Primeiro lugar na categoria ciências da saúde, com o projeto GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) (FENECIT - PE, 2017).
 
 > Credenciamento do projeto GAMETERAPIA: UMA FORMA DE UNIR JOGOS DIGITAIS A REABILITAÇÃO DE PACIENTES ACOMETIDOS PELO ACIDENTE VASCULAR ENCEFÁLICO (AVE) para a 32ª edição da mostratec, 2017 (Projeto credenciado na FENECIT - PE, 2017).
