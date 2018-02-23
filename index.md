@@ -107,8 +107,7 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 
 ## Grafite e Canetas Esferográficas
 ![](Geometria.jpg)
-***
-![](Flor.jpg)
+
 
 ## Só Grafite
 ![](Clar.jpg)
