@@ -1,5 +1,5 @@
 ## Heyyy, seja bem-vindo(a) a minha página!
-![](Perfil.jpg) 
+![](Perfil.jpg)
 
 ## Navegando por está página você encontrará os meus jogos digitais, artes realistas, participações em eventos e projetos.
 
@@ -9,14 +9,9 @@
 ### Artista Realista com foco em Reprodução Gráfica Facial, Corporal e de Objetos Físicos.
 
 
+# Portfólio  
 
-### Contatos:  
-
-*  E-mail: wisematr@gmail.com
-
-## Portfólio  
-
-### Games
+## Games
 
 # [Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/) 
 
@@ -124,3 +119,10 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 ![](Pok1.jpg)
 ***
 ![](Pok2.jpg)
+
+### Contatos:  
+
+* E-mail: wisematr@gmail.com
+* Facebook: Matheus Ricardo - https://www.facebook.com/matheusricardocontact?ref=br_rs
+* Instagram: matheusricardo.at - https://www.instagram.com/matheusricardo.at/?hl=pt-br
+* DeviantArt: https://matheusricardoart.deviantart.com
