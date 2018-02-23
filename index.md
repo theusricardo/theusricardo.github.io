@@ -3,8 +3,9 @@
 ## Navegando por está página você encontrará os meus jogos digitais, artes realistas, participações em eventos e projetos.
 
 ### Sou aluno do 3º ano do curso técnico integrado em desenvolvimento de jogos digitais, amante de artes visuais e de pesquisa científica.  
-### Pesquisador multidisciplinar em psicologia, neurologia e artes visuais.  
-### Artista realista com foco em reprodução gráfica facial e corporal.
+### Desenvolvedor de Jogos Digitais.
+### Pesquisador Multidisciplinar em Psicologia, Neurologia e Artes Visuais.  
+### Artista Realista com foco em Reprodução Gráfica Facial, Corporal e de Objetos Físicos.
 
 
 
