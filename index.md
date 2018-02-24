@@ -68,9 +68,9 @@ PROPOSTA DE INTERVENÇÃO, modalidade comunicação-oral.
 >
 > II SEMANA DA MATEMÁTICA (II SEMAT), campus São Paulo Potengi (2016).
 >
-> I CAMPEONATO DE TORRE DE HANOI, participante em todas as modalidades: 4 discos, 5 discos, 6 discos e às cegas (2016).
+> I CAMPEONATO DE TORRE DE HANOI, participante em todas as modalidades: 4 discos, 5 discos, 6 discos e às cegas, campus João Camara (2016).
 >
-> III SEMANA DA MATEMÁTICA (II SEMAT), campus São Paulo Potengi (2017).
+> III SEMANA DA MATEMÁTICA (III SEMAT), campus São Paulo Potengi (2017).
 >
 > I Seminário de Tecnologia da Informação e Comunicação (I SETIC) do IFRN/SGA (2017).
 
